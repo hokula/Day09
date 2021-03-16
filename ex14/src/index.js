@@ -27,5 +27,5 @@ console.log(myForLoop1());
 console.log(myForLoop2());
 module.exports = {
   myForLoop1,
-  myForLoop2,
+  myForLoop2
 };
